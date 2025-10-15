@@ -23,41 +23,14 @@
     --sidebar-colour: rgb(36, 36, 36);
 }
 
-:root.theme-light {
-    --window-margin: 20px;
-    --window-colour: rgba(255, 255, 255, 0.6);
-    --window-blur: 5px;
-    --window-border-radius: 10px;
-    --sidebar-colour: rgb(209, 209, 209);
-}
-
 :root {
     --user-name: "King";
     --edited-message: " EDITED ✎ ";
     --font-name: Poppins;
     --font-size: 13px;
     --group-chat-font: "Monoton";
-
-    --rs-small-spacing: 0px;
-    --rs-large-spacing: 0px;
-    --rs-medium-spacing: 0px;
-    --rs-small-width: 2.5px;
-    --rs-medium-width: 3.5px;
-    --rs-large-width: 4.5px;
-    --rs-avatar-shape: 50%;
-    --rs-online-color: #1df594;
-    --rs-idle-color: #faa61a;
-    --rs-dnd-color: #f04747;
-    --rs-offline-color: #636b75;
-    --rs-streaming-color: #643da7;
-    --rs-invisible-color: #636b75;
-    --rs-phone-visible: block;
-    --rs-phone-color: var(--rs-online-color);
-
     --accentcolor: 40, 40, 40;
     --accentcolorV2: #282828;
-
-    --memberlist-border-radius: 10px;
 
     --chillax-input-field: "Life is so much easier when you just take a moment to chill";
     --chillax-input-field-locked: "unfortunately, you can't chill in this channel";
