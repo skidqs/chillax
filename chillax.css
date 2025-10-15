@@ -2447,3 +2447,16 @@ html.theme-light .modeSelected__2ea32 .name__2ea32 {
 .chatTypingGradientNotAtBottom__36d07.chatGradientBase__36d07 {
     display: none !important;
 }
+
+.panels_c48ade .container__0a6a9 {
+    border-top: none !important;
+}
+
+.panels_c48ade .container_c48ade {
+    border-top: none !important;
+}
+
+[class*="spotify"] {
+    border-top: none !important;
+    border-bottom: none !important;
+}
