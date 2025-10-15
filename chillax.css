@@ -7,11 +7,11 @@
 @import url("https://crearts-community.github.io/Friends-Grid/theme.css");
 
 @import url("https://skidqs.github.io/chillax/Components/WindowsButtons.css");
-@import url("https://skidqs.github.io/chillax/Components/UserArea.css");
 @import url("https://skidqs.github.io/chillax/Components/Embeds.css");
 @import url("https://skidqs.github.io/chillax/Components/ChatArea.css");
 @import url("https://skidqs.github.io/chillax/Components/ChannelHeader.css");
 @import url("https://skidqs.github.io/chillax/Components/EmojiPicker.css");
+@import url("https://skidqs.github.io/chillax/Components/ChannelList.css");
 
 .wordmark-2iDDfm:after {
     content: "Chillax";
@@ -1205,12 +1205,6 @@ html.theme-light .background__1fed1 {
 .toolbar_bba883 .inactive__6ec5e {
     background: transparent !important;
     box-shadow: none !important;
-}
-
-.art-3sVxAs {
-    content: url("https://cdn.custom-cursor.com/packs/4105/among-us-character-in-dino-skin-pack.png");
-    margin-top: -210px;
-    height: 218px !important;
 }
 
 .title-2xi6Ka {
