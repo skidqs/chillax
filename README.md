@@ -1,2 +1,1 @@
-# chillax
-a vencord theme where calm meets customization
+<h1 align="center"> C H I L L A X </h1>
