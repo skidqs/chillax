@@ -2448,6 +2448,14 @@ html.theme-light .modeSelected__2ea32 .name__2ea32 {
     display: none !important;
 }
 
+
+
+
+
+
+
+
+
 .panels_c48ade .container__0a6a9 {
     border-top: none !important;
 }
@@ -2459,4 +2467,28 @@ html.theme-light .modeSelected__2ea32 .name__2ea32 {
 [class*="spotify"] {
     border-top: none !important;
     border-bottom: none !important;
+}
+
+.activityPanel__0d725 {
+    display: none !important;
+}
+
+.chat__0e108 .container__0a6a9 {
+    border-top: none !important;
+}
+
+.panels_c48ade .subtext__0e548 {
+    border-top: none !important;
+}
+
+.container__0a6a9 .activityPanel__0d725 {
+    display: none !important;
+}
+
+[class*="activityPanel"] {
+    display: none !important;
+}
+
+.containerDefault__0a6a9 .activity__0d725 {
+    display: none !important;
 }
