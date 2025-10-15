@@ -338,3 +338,7 @@ html.theme-light .menu_c1e9c4 {
 .submenu_c1e9c4.menu_c1e9c4::before {
     width: calc(100% - 16px);
 }
+
+.chat-input, .chat-input:focus {
+  background: #000 !important;
+}
