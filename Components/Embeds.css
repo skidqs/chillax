@@ -49,3 +49,8 @@ html.theme-light .embed__623de code {
 .embedFull__623de:before {
     display: none !important;
 }
+
+.embed, .message-embed {
+  border-left: none !important;
+  background: var(--background-secondary) !important;
+}
