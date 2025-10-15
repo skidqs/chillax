@@ -8,12 +8,7 @@
 */
 
 @import url("https://skidqs.github.io/chillax/chillax.css");
-
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css");
-@import url("https://skidqs.github.io/chillax/Addons/IconPackEdited.css");
-@import url("https://skidqs.github.io/chillax/Addons/FolderRedesign.css");
-@import url("https://skidqs.github.io/chillax/Addons/ColoredLinks.css");
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css");
 
 :root {
     --background-image: var(--wallpaper);
@@ -59,20 +54,15 @@
     --rs-phone-visible: block;
     --rs-phone-color: var(--rs-online-color);
 
-    --accentcolor: 251, 84, 84;
-    --accentcolorV2: #fb5454;
-
-    --themelightsettingsmodalbackground: rgb(223, 223, 223);
-    --themedarksettingsmodalbackground: rgb(51, 49, 53);
-    --settingsmodalwidth: 960px;
-    --settingsmodalheight: 80vh;
+    --accentcolor: 40, 40, 40;
+    --accentcolorV2: #282828;
 
     --memberlist-border-radius: 10px;
 
     --chillax-input-field: "Life is so much easier when you just take a moment to chill";
-    --chillax-input-field-locked: "Unfortunately, you can't chill in this channel";
-    --chillax-input-typing-indicator-one-person: "is smashing some buttons";
-    --chillax-input-typing-indicator-many-person: "are smashing some buttons";
+    --chillax-input-field-locked: "unfortunately, you can't chill in this channel";
+    --chillax-input-typing-indicator-one-person: "is yapping";
+    --chillax-input-typing-indicator-many-person: "are yapping";
 
     --chillax-scroller-color: transparent;
 
@@ -95,24 +85,4 @@
     --background-accent: rgb(36, 36, 36);
     --activity-card-background: transparent;
     --deprecated-panel-background: transparent;
-}
-
-.theme-light {
-    --background-message-hover: rgba(255, 255, 255, 0.055);
-    --header-primary: rgb(0, 0, 0);
-    --header-secondary: #3f3f3f;
-    --text-normal: #303030;
-    --text-muted: #333333;
-    --channels-default: #585b5e;
-    --interactive-normal: #3a3a3a;
-    --interactive-hover: #333333;
-    --interactive-active: rgb(0, 0, 0);
-    --interactive-muted: #4f545c;
-    --background-primary: transparent;
-    --background-secondary: transparent;
-    --background-tertiary: transparent;
-    --background-accent: rgb(27, 27, 27);
-    --activity-card-background: transparent;
-    --deprecated-panel-background: transparent;
-
 }
