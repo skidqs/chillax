@@ -55,3 +55,27 @@ html.theme-dark .embedFull__623de:before,
 html.theme-light .embedFull__623de:before {
     background: transparent !important;
 }
+
+.embedWrapper__6ed4a,
+.embedFull__6ed4a,
+.embed__6ed4a,
+.embedWrapper__623de {
+    background: #000000 !important;
+    border: 1px solid #ffffff !important;
+    border-radius: 4px !important;
+}
+
+.embedInner__6ed4a,
+.embedAuthor__6ed4a,
+.embedTitle__6ed4a,
+.embedDescription__6ed4a,
+.embedFields__6ed4a,
+.embedField__6ed4a,
+.embedFooter__6ed4a {
+    background: transparent !important;
+}
+
+.embed__6ed4a::before,
+.embed__623de::before {
+    display: none !important;
+}
