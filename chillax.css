@@ -1,22 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
-@import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
-@import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Libre+Barcode+128&family=Libre+Barcode+128+Text&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
 
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
-@import url("https://warrayquipsome.github.io/Chillax/ChillaxTag.css");
-@import url("https://warrayquipsome.github.io/Chillax/Addons/SettingsModalEdited.css");
-@import url("https://warrayquipsome.github.io/Chillax/Addons/AccountDetailsGrid.css");
+@import url("https://skidqs.github.io/chillax/ChillaxTag.css");
+@import url("https://skidqs.github.io/chillax/Addons/SettingsModalEdited.css");
+@import url("https://skidqs.github.io/chillax/Addons/AccountDetailsGrid.css");
 @import url("https://crearts-community.github.io/Friends-Grid/theme.css");
 
-@import url("https://warrayquipsome.github.io/Chillax/Components/WindowsButtons.css");
-@import url("https://warrayquipsome.github.io/Chillax/Components/UserArea.css");
-@import url("https://warrayquipsome.github.io/Chillax/Components/Embeds.css");
-@import url("https://warrayquipsome.github.io/Chillax/Components/ChatArea.css");
-@import url("https://warrayquipsome.github.io/Chillax/Components/ChannelHeader.css");
-@import url("https://warrayquipsome.github.io/Chillax/Components/EmojiPicker.css");
+@import url("https://skidqs.github.io/chillax/Components/WindowsButtons.css");
+@import url("https://skidqs.github.io/chillax/Components/UserArea.css");
+@import url("https://skidqs.github.io/chillax/Components/Embeds.css");
+@import url("https://skidqs.github.io/chillax/Components/ChatArea.css");
+@import url("https://skidqs.github.io/chillax/Components/ChannelHeader.css");
+@import url("https://skidqs.github.io/chillax/Components/EmojiPicker.css");
 
 .embedWrapper__6ed4a {
     background: #000000 !important;
@@ -212,8 +207,6 @@ html.theme-light .scrollbar__506b3 {
 .lookFilled__201d5 {
     border-radius: 45px;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
-    font-family: "Roboto";
-    font-size: 12px;
     transition: 0.2s;
 }
 
@@ -958,14 +951,14 @@ html.theme-light .circleIconButton__5bc7e:hover {
     box-shadow: 0 0 10px 2px #ff2d54;
 }
 
-[href="https\:\/\/github.com/warrayquipsome/Chillax#Authors"] {
+[href="https\:\/\/github.com/skidqs/chillax#Authors"] {
     font-family: "Libre Barcode 128 Text";
     color: rgb(255, 161, 161) !important;
     font-weight: 400;
     font-size: 25px;
 }
 
-[href="https\:\/\/github.com/warrayquipsome/Chillax#Authors"]:hover {
+[href="https\:\/\/github.com/skidqs/chillax#Authors"]:hover {
     font-family: "Libre Barcode 128";
     color: rgb(255, 161, 161) !important;
     font-weight: 400;
@@ -974,7 +967,6 @@ html.theme-light .circleIconButton__5bc7e:hover {
 
 .input__4f074 {
     overflow: visible !important;
-    font-family: var(--group-chat-font) !important;
     font-weight: 200 !important;
     font-size: 25px;
     letter-spacing: 0.2px;
@@ -1104,7 +1096,6 @@ html.theme-light .inline {
 
 .children__7bffb .colorRed__201d5 {
     height: 45px;
-    font-family: "Roboto" !important;
     text-transform: uppercase;
     letter-spacing: 2.5px;
     font-weight: 500;
@@ -1848,7 +1839,7 @@ button {
     display: none;
 }
 
-#Chillax-card [href='https\:\/\/github.com/warrayquipsome/Chillax'] {
+#Chillax-card [href='https\:\/\/github.com/skidqs/chillax'] {
     color: #fff !important;
 }
 
