@@ -1,5 +1,4 @@
 .markup__75297 h1, .markup__75297 h2, .markup__75297 h3, .markup__75297 h4, .markup__75297 h5, .markup__75297 h6 {
-    font-family: var(--font-name);
 }
 
 .container__7aaec.bottom__7aaec {
@@ -205,8 +204,6 @@ html.theme-light .scrollableContainer__74017:focus-within {
 
 .placeholder__1b31f::before {
     content: var(--chillax-input-field);
-    font-family: "Poppins";
-    font-size: 13px;
     visibility: visible !important;
 }
 
