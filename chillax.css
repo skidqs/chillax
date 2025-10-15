@@ -13,6 +13,33 @@
 @import url("https://skidqs.github.io/chillax/Components/ChannelHeader.css");
 @import url("https://skidqs.github.io/chillax/Components/EmojiPicker.css");
 
+.wordmark-2iDDfm:after {
+    content: "Chillax";
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--header-primary);
+}
+
+.wordmark-2iDDfm svg {
+    display: none;
+}
+
+.channelTextArea-1FufC0 {
+    background: #000000 !important;
+}
+
+.channelTextArea-1FufC0:hover {
+    background: #000000 !important;
+}
+
+.channelTextArea-1FufC0:focus-within {
+    background: #000000 !important;
+}
+
+.scrollableContainer-15eg7h {
+    background: #000000 !important;
+}
+
 .embedWrapper__6ed4a {
     background: #000000 !important;
     border: 1px solid #ffffff !important;
