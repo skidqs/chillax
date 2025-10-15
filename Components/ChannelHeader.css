@@ -80,3 +80,7 @@ html.theme-light .drawerSizingWrapper__08434 {
     background-color: rgb(51, 49, 53) !important;
     border-radius: 8px;
 }
+
+.activity-panel {
+  display: none !important;
+}
