@@ -2,7 +2,7 @@
     content: "Chillax";
     font-size: 16px;
     font-weight: 600;
-    color: var(--header-primary);
+    color: #000000;
 }
 
 .wordmark-2iDDfm svg {
@@ -27,13 +27,13 @@
 
 .embedWrapper__6ed4a {
     background: #000000 !important;
-    border: 1px solid #ffffff !important;
+    border: 1px solid #000000 !important;
     border-radius: 4px !important;
 }
 
 .embedFull__6ed4a {
     background: #000000 !important;
-    border: 1px solid #ffffff !important;
+    border: 1px solid #000000 !important;
     border-radius: 4px !important;
 }
 
@@ -224,12 +224,12 @@ html.theme-light .scrollbar__506b3 {
 
 html.theme-dark .lookFilled__201d5 {
     background: rgb(36, 36, 36) !important;
-    color: rgb(255, 255, 255) !important;
+    color: #000000 !important;
 }
 
 html.theme-light .lookFilled__201d5 {
     background: #fff !important;
-    color: #000 !important;
+    color: #000000 !important;
 }
 
 .lookFilled__201d5:hover {
@@ -355,7 +355,7 @@ html.theme-light .elevationBorderHigh__2b2f1 {
 
 .newMessagesBar__0f481.barBase__0f481:hover > button {
     font-size: 14px;
-    color: #ffffff !important;
+    color: #000000 !important;
     transition: color 0.3s 0.1s, padding 0.4s;
 }
 
@@ -365,7 +365,7 @@ html.theme-light .elevationBorderHigh__2b2f1 {
     margin-right: 0;
     margin-left: 6.5px;
     transition: all 0.2s;
-    color: #fff !important;
+    color: #000000 !important;
 }
 
 .visual-refresh .barButtonAlt__0f481 {
@@ -418,14 +418,14 @@ html.theme-light .elevationBorderHigh__2b2f1 {
     top: auto;
     margin-right: 0px;
     margin-left: 0px;
-    color: #ffffff;
+    color: #000000;
     transition: margin 0.6s;
 }
 
 [class*="jumpToPresentBar"]:hover > button {
     padding: 8px 18px !important;
     font-size: 14px;
-    color: #ffffff;
+    color: #000000;
     transition: font-size 0.2s, color 0.2s 0.1s, padding 0.4s;
 }
 
@@ -528,11 +528,11 @@ html.theme-light .elevationBorderHigh__2b2f1 {
 }
 
 html.theme-dark .mainContent-20q_Hp::before {
-    border-top-color: rgba(255, 255, 255, 0.733);
-    border-bottom-color: rgba(255, 255, 255, 0.733);
+    border-top-color: rgba(0, 0, 0, 0.733);
+    border-bottom-color: rgba(0, 0, 0, 0.733);
 }
 
-html.theme-dark .mainContent-20q_Hp::before {
+html.theme-light .mainContent-20q_Hp::before {
     border-top-color: rgba(0, 0, 0, 0.733);
     border-bottom-color: rgba(0, 0, 0, 0.733);
 }
@@ -555,7 +555,7 @@ html.theme-dark .mainContent-20q_Hp::before {
     height: 100%;
     z-index: 1;
     transition: all 0.3s;
-    background-color: rgba(255, 255, 255, 0);
+    background-color: rgba(0, 0, 0, 0);
 }
 
 .mainContent-20q_Hp:hover::after {
@@ -648,7 +648,7 @@ html.theme-light .monaco-editor .margin {
 }
 
 .btn-primary {
-    color: white !important;
+    color: #000000 !important;
 }
 
 body:before {
@@ -665,12 +665,12 @@ body:before {
 }
 
 html.theme-dark body:before {
-    color: #fff;
+    color: #000000;
     background-color: #0000007a;
 }
 
 html.theme-light body:before {
-    color: rgb(0, 0, 0);
+    color: #000000;
     background-color: #ffffff7a;
 }
 
@@ -787,11 +787,11 @@ html.theme-light .mentioned__5126c:hover {
 
 .clamped-2ZePhX::-webkit-scrollbar-track {
     border-radius: 30px;
-    background-color: rgba(255, 255, 255, 0.047) !important;
+    background-color: rgba(0, 0, 0, 0.047) !important;
 }
 
 .clamped-2ZePhX::-webkit-scrollbar-thumb {
-    background: linear-gradient(45deg, #cacaca, var(--accentcolorV2)) !important;
+    background: linear-gradient(45deg, #000000, var(--accentcolorV2)) !important;
     border-radius: 30px;
 }
 
@@ -832,17 +832,17 @@ html.theme-light {
 }
 
 html.theme-dark .circleIconButton__5bc7e {
-    background: rgba(255, 255, 255, 0.1);
-    color: rgb(255, 255, 255);
+    background: rgba(0, 0, 0, 0.1);
+    color: #000000;
 }
 
 html.theme-light .circleIconButton__5bc7e {
     background: rgba(0, 0, 0, 0.1);
-    color: rgb(0, 0, 0);
+    color: #000000;
 }
 
 html.theme-dark .circleIconButton__5bc7e:hover {
-    color: #ffffff;
+    color: #000000;
     background: transparent;
 }
 
@@ -1057,11 +1057,11 @@ html.theme-light .circleIconButton__5bc7e:hover {
 }
 
 html.theme-dark .item__58105 {
-    box-shadow: 0 0 3px rgb(255, 255, 255);
+    box-shadow: 0 0 3px #000000;
 }
 
 html.theme-light .item__58105 {
-    box-shadow: 0 0 3px rgb(0, 0, 0);
+    box-shadow: 0 0 3px #000000;
 }
 
 html.theme-dark .inline {
@@ -1086,12 +1086,12 @@ html.theme-light .inline {
 }
 
 html.theme-dark .children__7bffb .colorRed__201d5 {
-    color: rgb(255, 255, 255) !important;
+    color: #000000 !important;
     background-color: rgb(58, 58, 58) !important;
 }
 
 html.theme-light .children__7bffb .colorRed__201d5 {
-    color: rgb(0, 0, 0) !important;
+    color: #000000 !important;
     background-color: rgb(255, 255, 255) !important;
 }
 
@@ -1102,12 +1102,12 @@ html.theme-light .children__7bffb .colorRed__201d5 {
 
 html.theme-dark .children__7bffb .colorRed__201d5:hover {
     background-color: rgb(229, 46, 46) !important;
-    color: rgb(37, 37, 37) !important;
+    color: #000000 !important;
 }
 
 html.theme-light .children__7bffb .colorRed__201d5:hover {
     background-color: rgb(255, 129, 129) !important;
-    color: rgb(255, 255, 255) !important;
+    color: #000000 !important;
 }
 
 .children__7bffb .disableButton_d286c5.colorRed__201d5::before {
@@ -1250,7 +1250,7 @@ html.theme-light .itemCard__7e549.wrapper__00943:hover {
 
 .reactionMe_f8896c:hover,
 .reaction_f8896c:hover {
-    border: 1px solid rgba(255, 255, 255, 0.5) !important;
+    border: 1px solid rgba(0, 0, 0, 0.5) !important;
 }
 
 .reaction_f8896c {
@@ -1258,7 +1258,7 @@ html.theme-light .itemCard__7e549.wrapper__00943:hover {
 }
 
 html.theme-dark .reaction_f8896c {
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(0, 0, 0, 0.3);
 }
 
 html.theme-light .reaction_f8896c {
@@ -1678,7 +1678,7 @@ li.row-uezxzk {
 }
 
 html.theme-dark .reactionMe__23977 .reactionCount__23977 {
-    color: #EEE !important;
+    color: #000000 !important;
 }
 
 html.theme-light .reactionMe__23977 .reactionCount__23977 {
@@ -1780,7 +1780,7 @@ button {
 #Chillax-card .bd-meta {
     margin-left: 15px;
     bottom: 25px;
-    color: rgb(226, 226, 226);
+    color: #000000;
 }
 
 #Chillax-card {
@@ -1802,11 +1802,11 @@ button {
 }
 
 #Chillax-card [href='https\:\/\/github.com/skidqs/chillax'] {
-    color: #fff !important;
+    color: #000000 !important;
 }
 
 #Chillax-card [href='DrfX6286kF'] {
-    color: #fff !important;
+    color: #000000 !important;
 }
 
 #Chillax-card .bd-name {
@@ -1828,11 +1828,11 @@ button {
 }
 
 html.theme-dark #Chillax-card .bd-meta {
-    color: rgb(226, 226, 226);
+    color: #000000;
 }
 
 html.theme-light #Chillax-card .bd-meta {
-    color: rgb(0, 0, 0);
+    color: #000000;
 }
 
 .profileBadge22_b64375:not(#a#b), .profileBadge22-3OAigE:not(#a#b) {
@@ -2005,7 +2005,7 @@ html.theme-light .stackedBars__74017 {
 
 html.theme-dark .mutualGuildsList_b433b4 > .collapseBtn_a4a127:hover,
 html.theme-dark .mutualFriendsList_b433b4 > .collapseBtn_a4a127:hover {
-    background: rgba(255, 255, 255, 0.1) !important;
+    background: rgba(0, 0, 0, 0.1) !important;
 }
 
 html.theme-light .mutualGuildsList_b433b4 > .collapseBtn_a4a127:hover,
@@ -2044,7 +2044,7 @@ html.theme-light .popout_af3b89 {
 }
 
 html.theme-light .popout_af3b89 .contents__201d5 > div {
-    color: #000 !important;
+    color: #000000 !important;
 }
 
 html.theme-light .popout_af3b89 .contents__201d5 > svg > path {
