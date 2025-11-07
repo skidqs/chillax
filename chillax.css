@@ -11,10 +11,6 @@
 
 :root {
 
-    --wallpaper: url("https://files.catbox.moe/adv684.webp");
-
-    --bg-opacity: 100%;
-    --background-image: var(--wallpaper);
 
     --user-name: "King";
     --font-name: Poppins;
